@@ -20,17 +20,23 @@
 
 ## 📸 시연 화면
 
-| 메인 페이지 | 검색 결과 페이지 |
-|------------|----------------|
-| ![메인 페이지](images/main.png) | ![검색 결과](images/search.png) |
+**메인 페이지**
+![메인 페이지](images/main.png)
 
-| 단어 상세 페이지 | D3.js 단어 관계 시각화 |
-|----------------|----------------------|
-| ![단어 상세](images/word_detail.png) | ![단어 관계 그래프](images/graph.png) |
+**검색 결과 페이지**
+![검색 결과](images/search.png)
 
-| 설문 피드백 페이지 | 시스템 구조 |
-|-----------------|------------|
-| ![설문 피드백](images/survey.png) | ![시스템 구조](images/architecture.png) |
+**단어 상세 페이지**
+![단어 상세](images/word_detail.png)
+
+**D3.js 단어 관계 시각화**
+![단어 관계 그래프](images/graph.png)
+
+**설문 피드백 페이지**
+![설문 피드백](images/survey.png)
+
+**시스템 구조**
+![시스템 구조](images/architecture.png)
 
 <br>
 
@@ -186,6 +192,6 @@ D3.js 노드 클릭 이벤트와 React Router의 `navigate`를 연결해
 | 이름 | 담당 |
 |------|------|
 | 김다은 | 백엔드 (Node.js/Express REST API), 프론트엔드 (검색 결과 페이지, D3.js 시각화), AWS EC2 배포·운영 |
-| 김서현 | 프론트엔드 |
-| 이서진 | UI/UX 목업, 프론트엔드 |
-| 전동헌 | 단어 데이터베이스 구축, Azure Cosmos DB, 인프라 |
+| 팀원A | 프론트엔드 |
+| 팀원B | UI/UX 목업, 프론트엔드 |
+| 팀원C | 단어 데이터베이스 구축, Azure Cosmos DB, 인프라 |
